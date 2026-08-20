@@ -1,0 +1,11 @@
+Unit tests run on 2026-07-24
+Command: python -m unittest discover -s tests -p "test_*.py" -v
+
+test_csv_read_write (test_file_utils.FileUtilsTest.test_csv_read_write) ... ok
+test_move_rename_delete (test_file_utils.FileUtilsTest.test_move_rename_delete) ... ok
+test_text_read_write_append (test_file_utils.FileUtilsTest.test_text_read_write_append) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.036s
+
+OK

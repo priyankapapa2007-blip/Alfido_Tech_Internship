@@ -1,0 +1,9 @@
+Read text file successfully
+Hello world
+This is sample text.
+
+Read CSV file successfully
+[['name', 'age'], ['Alice', '30'], ['Bob', '25']]
+Rename failed
+Moved CSV into archived folder
+Final cleanup complete.

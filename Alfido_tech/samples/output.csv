@@ -1,0 +1,9 @@
+status,detail
+1,Read text file successfully
+2,"Hello world
+This is sample text.
+"
+3,Read CSV file successfully
+4,"[['name', 'age'], ['Alice', '30'], ['Bob', '25']]"
+5,Rename failed
+6,Moved CSV into archived folder
